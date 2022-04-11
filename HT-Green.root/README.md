@@ -1,2 +1,0 @@
-# HT Green
- Testing xml
