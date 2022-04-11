@@ -1,0 +1,13 @@
+[
+	{
+		"name": "ht.green.local",
+		"host": "ftp.htgreeen.local",
+		"port": 21,
+		"type": "ftp",
+		"username": " Cameron.Farrell@htgreen.local",
+		"password": "Password1",
+		"path": "/",
+		"autosave": true,
+		"confirm": true
+	}
+]
